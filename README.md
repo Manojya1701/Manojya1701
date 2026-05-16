@@ -51,7 +51,6 @@
 - 💡 Solved **375+ problems** on LeetCode
 - ⭐ 2★ rated programmer on CodeChef (Highest Rating: 1497)
 - 🎯 Strong understanding of Data Structures & Algorithms
-- 🚀 Passionate about building impactful real-world applications
 
 ---
 ## 🌐 Connect With Me
