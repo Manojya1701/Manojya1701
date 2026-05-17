@@ -23,7 +23,7 @@
 </p>
 
 ### Additional Technologies
-`JWT` • `REST APIs` • `Twilio API` • `NumPy` • `Pandas` • `Matplotlib`  • `Google Colab` • `Jupyter Notebook`
+`JWT` • `REST APIs` • `Twilio API` • `NumPy` • `Pandas` • `Matplotlib`  • `Google Colab` • `Jupyter Notebook` • `N8N`
 
 ---
 ## 🚀 Featured Projects
