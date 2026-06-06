@@ -11,11 +11,29 @@
 - 🎓 I'm a B.Tech CSE Student
 - 💻 Passionate about Full Stack Development
 - 🤖 Interested in AI/ML and real-world problem solving
-- 🌱 Currently learning **React.js and Backend Development**
+- 🌱 Currently building **DevMentor AI** using the MERN Stack and OpenAI APIs
 - 🧠 Regularly practicing **DSA and Competitive Programming**
 - 🚀 Interested in building impactful real-world projects
   
 ---
+## 🚧 Currently Building
+
+### 🤖 DevMentor AI – AI-Powered Project Learning Platform
+
+An AI-powered mentorship platform that helps students learn software development by building projects instead of copying solutions.
+
+#### Key Features
+- 🗺️ AI-Generated Project Roadmaps
+- 💡 Progressive Multi-Level Hint System
+- 🧠 Project Memory & Context Tracking
+- 📊 Learning Progress Dashboard
+- 🔐 JWT Authentication & User Management
+- 🤖 OpenAI-Powered Mentor Assistance
+
+#### Tech Stack
+React • Vite • Tailwind CSS • Node.js • Express.js • MongoDB Atlas • JWT • OpenAI API
+
+> Building in public and documenting the entire development journey.
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -28,6 +46,13 @@
 ---
 ## 🚀 Featured Projects
 
+### 🤖 DevMentor AI (In Progress)
+
+AI-powered project-based learning platform that guides students through building software projects using roadmaps, progressive hints, and project memory.
+
+Tech Stack:
+React • Node.js • Express • MongoDB • OpenAI API • JWT
+
 ### 🩸 RedThread – Intelligent Blood Donation Platform
 - MERN stack based blood donation management system
 - Integrated Twilio Voice & SMS APIs
@@ -38,11 +63,6 @@
 - Smart RTC bus navigation platform for tourists
 - Route mapping and transport data organization
 - User-friendly interface for easy route discovery
-
-### 🛒 SmartShop – Vendor Management Platform
-- Platform for vendors to manage shop listings
-- Real-time updates and authentication
-- Rating and feedback system for customers
 
 ---
 ## 🏆 Achievements
@@ -77,7 +97,8 @@
 
 ### 🎯 Current Focus
 
-- 🌱 Learning advanced Full Stack Development
+- 🤖 Building DevMentor AI (AI-powered project learning platform)
+- 🌱 Deepening MERN Stack and system design skills
 - ⚡ Improving problem-solving and DSA skills
 - 🚀 Building scalable real-world applications
 - 🤝 Exploring open-source contribution opportunities
