@@ -1,113 +1,252 @@
-<h1 align="center">Hi 👋, I'm Manojya Guruju</h1>
-<h3 align="center">MERN Stack Developer | AI/ML Enthusiast | Competitive Programmer</h3>
+<h1 align="center">
+  Hey 👋 I'm Manojya Guruju
+</h1>
+
+<h3 align="center">
+MERN Stack Developer • AI Engineer • Competitive Programmer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manojya1701&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Applications;MERN+Stack+Developer;375%2B+LeetCode+Problems;Hackathon+Finalist;Always+Learning+Something+New🚀"/>
 
-## 🚀 About Me
-
-- 🎓 I'm a B.Tech CSE Student
-- 💻 Passionate about Full Stack Development
-- 🤖 Interested in AI/ML and real-world problem solving
-- 🌱 Currently building **DevMentor AI** using the MERN Stack and OpenAI APIs
-- 🧠 Regularly practicing **DSA and Competitive Programming**
-- 🚀 Interested in building impactful real-world projects
-  
----
-## 🚧 Currently Building
-
-### 🤖 DevMentor AI – AI-Powered Project Learning Platform
-
-An AI-powered mentorship platform that helps students learn software development by building projects instead of copying solutions.
-
-#### Key Features
-- 🗺️ AI-Generated Project Roadmaps
-- 💡 Progressive Multi-Level Hint System
-- 🧠 Project Memory & Context Tracking
-- 📊 Learning Progress Dashboard
-- 🔐 JWT Authentication & User Management
-- 🤖 OpenAI-Powered Mentor Assistance
-
-#### Tech Stack
-React • Vite • Tailwind CSS • Node.js • Express.js • MongoDB Atlas • JWT • OpenAI API
-
-> Building in public and documenting the entire development journey.
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,bootstrap,react,vite,nodejs,express,mongodb,mysql,git,github,vscode,postman,npm,tensorflow,sklearn" />
-</p>
-
-### Additional Technologies
-`JWT` • `REST APIs` • `Twilio API` • `NumPy` • `Pandas` • `Matplotlib`  • `Google Colab` • `Jupyter Notebook` • `N8N`
-
----
-## 🚀 Featured Projects
-
-### 🤖 DevMentor AI (In Progress)
-
-AI-powered project-based learning platform that guides students through building software projects using roadmaps, progressive hints, and project memory.
-
-Tech Stack:
-React • Node.js • Express • MongoDB • OpenAI API • JWT
-
-### 🩸 RedThread – Intelligent Blood Donation Platform
-- MERN stack based blood donation management system
-- Integrated Twilio Voice & SMS APIs
-- Implemented JWT authentication and SHA-256 verification
-- AI-based donor matching system
-
-### 🚌 Way2Go – Smart Transport Navigator
-- Smart RTC bus navigation platform for tourists
-- Route mapping and transport data organization
-- User-friendly interface for easy route discovery
-
----
-## 🏆 Achievements
-
-- 🥇 Finalist at **Hacksagon '26** among 2100+ teams
-- 💡 Solved **375+ problems** on LeetCode
-- ⭐ 2★ rated programmer on CodeChef (Highest Rating: 1497)
-- 🎯 Strong understanding of Data Structures & Algorithms
-
----
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/manojya1701" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://github.com/Manojya1701" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="https://leetcode.com/Manojya_1701" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40" />
-</a>
-
-<a href="https://www.codechef.com/users/manojyaguruju" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/codechef" height="40" />
-</a>
 </p>
 
 ---
 
-### 🎯 Current Focus
-
-- 🤖 Building DevMentor AI (AI-powered project learning platform)
-- 🌱 Deepening MERN Stack and system design skills
-- ⚡ Improving problem-solving and DSA skills
-- 🚀 Building scalable real-world applications
-- 🤝 Exploring open-source contribution opportunities
-- 💡 Interested in AI-powered solutions and system design
-
----
-## ⚡ Fun Fact
-
-- Debugging one small error can take hours… but fixing it in the end feels legendary 😄
 <p align="center">
-  ⭐️ From <b>Manojya</b>
+
+<img src="https://komarev.com/ghpvc/?username=Manojya1701&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+
+
+</p>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Manojya Guruju
+
+Role:
+  MERN Stack Developer
+
+Education:
+  B.Tech Computer Science
+
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Backend Engineering
+  - Competitive Programming
+
+Currently Building:
+  DevMentor AI
+
+Currently Learning:
+  System Design
+  AI Agents
+  Cloud Technologies
+
+Goal:
+  Build impactful products that solve real-world problems.
+```
+
+---
+
+# ⚡ Tech Stack
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,html,css,tailwind,bootstrap"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+
+</p>
+
+### Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript"/>
+
+</p>
+
+### AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
+NumPy • Pandas • Scikit-Learn • OpenAI API
+
+---
+
+# 🚧 Current Project
+
+## 🤖 DevMentor AI
+
+> AI-powered mentorship platform that teaches software development by building projects instead of copying solutions.
+
+### Features
+
+- 🧠 AI Generated Roadmaps
+
+- 💡 Multi-Level Hint System
+
+- 📈 Learning Dashboard
+
+- 🔐 JWT Authentication
+
+- 🧠 Project Memory
+
+- 🤖 OpenAI Mentor
+
+---
+
+# 🚀 Featured Projects
+
+## 🩸 RedThread
+
+AI-powered Blood Donation Platform
+
+✅ MERN Stack
+
+✅ Twilio Voice & SMS
+
+✅ JWT Authentication
+
+✅ SHA-256 Verification
+
+---
+
+## 🚌 Way2Go
+
+Smart Tourist Transport Navigation Platform
+
+✅ Route Mapping
+
+✅ Smart Search
+
+✅ Better Travel Experience
+
+---
+
+# 🏆 Achievements
+
+🥇 Hacksagon '26 Finalist (2100+ Teams)
+
+⭐ Solved 375+ LeetCode Problems
+
+⭐ CodeChef 2★
+
+🚀 Strong in DSA
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manojya1701&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojya1701&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojya1701&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manojya1701&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p>
+
+<a href="https://leetcode.com/Manojya_1701">
+
+<img src="https://img.shields.io/badge/LeetCode-375%2B-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+<a href="https://www.codechef.com/users/manojyaguruju">
+
+<img src="https://img.shields.io/badge/CodeChef-2★-brown?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build DevMentor AI
+
+✅ 500+ LeetCode Problems
+
+✅ Crack Top Internship
+
+✅ Learn System Design
+
+✅ Open Source Contributions
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Manojya1701">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+<a href="https://linkedin.com/in/manojya1701">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐️ If you like my work, consider giving a ⭐ to my repositories!
+
 </p>
